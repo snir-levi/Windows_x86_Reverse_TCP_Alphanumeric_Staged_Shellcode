@@ -1,7 +1,7 @@
 ########### Windows x86 Reverse TCP Staged Alphanumeric Shellcode CreateProcessA cmd.exe ########
             ########### Author: Snir Levi, Applitects #############
-								## 332 Bytes ##
-					## For Educational Purposes Only ##
+				## 332 Bytes ##
+			## For Educational Purposes Only ##
 								
 Date: 01.03.17
 Author: Snir Levi
@@ -14,7 +14,7 @@ PORT -  4444
 Tested on:
 Windows 7
 Windows 10
-											###Usage###
+							###Usage###
 				Victim Executes the first stage shellcode, and opens tcp connection
 				After Connection is established, send the Alphanumeric stage to the connection		
 						
@@ -29,7 +29,7 @@ Windows 10
 				(c) 2016 Microsoft Corporation. All rights reserved.
 				
 				C:\Users\>
-											###########
+							###########
 											
 											
 											
